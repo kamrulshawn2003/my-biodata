@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a computer science with a passion for building
 
 🚀 About Me
 🌍 Location: Chittagong, Bangladesh.
-🎓 Education: BSc in Computer Science and Engineering from International Islamic University Chittagong.
+🎓 Education: BSc in Computer Science and Technology from Beijing Institute of Technology.
 🛠️ Technologies: C, C++, Html, Css, BootStrap.
 💼 Current Role: Student at International Islamic University Chittagong.
 🌱 Currently Learning: C++.
